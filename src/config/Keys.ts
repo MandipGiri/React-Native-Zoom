@@ -1,0 +1,6 @@
+export const Keys = {
+  CLIENT_SECRET: 'Xd6zGHrOEl7jeiHFC72x5IvAIugB0xaGp6WW',
+  CLIENT_KEY: 'QwUtR4GVFt5a7NS0UV7FNTW9dMpyyTUkcNyf',
+  API_KEY: 'VeCDmaoyTiKabt2BlrEDlA',
+  API_SECRET: 'ZCoXRj7qyM0uC39FSzn6QRzQPstHiE09YLH3',
+};
